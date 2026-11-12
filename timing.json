@@ -1,0 +1,42 @@
+{
+ "psi+ple": {
+  "ms_per_record_bs1024": 0.08626352064311504,
+  "ms_per_record_bs1": 0.16907930374145508,
+  "params": 62591
+ },
+ "ftt+ple": {
+  "ms_per_record_bs1024": 0.03925865166820586,
+  "ms_per_record_bs1": 0.22931655248006186,
+  "params": 40527
+ },
+ "inc1d": {
+  "ms_per_record_bs1024": 0.025949440896511078,
+  "ms_per_record_bs1": 0.17578125,
+  "params": 35631
+ },
+ "cnn1d": {
+  "ms_per_record_bs1024": 0.008867646101862192,
+  "ms_per_record_bs1": 0.07749716440836589,
+  "params": 23823
+ },
+ "mlp": {
+  "ms_per_record_bs1024": 0.0011019583325833082,
+  "ms_per_record_bs1": 0.05251248677571615,
+  "params": 49167
+ },
+ "inc2d": {
+  "ms_per_record_bs1024": 0.049714173655956984,
+  "ms_per_record_bs1": 0.22228399912516278,
+  "params": 33551
+ },
+ "cnnbigru": {
+  "ms_per_record_bs1024": 0.014510005712509155,
+  "ms_per_record_bs1": 0.10116418202718098,
+  "params": 25039
+ },
+ "lgbm": {
+  "ms_per_record_bs1024": 0.1342826581094414,
+  "ms_per_record_bs1": 0.8292547861735026,
+  "trees": 1665
+ }
+}
